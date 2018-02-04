@@ -1,0 +1,14 @@
+{
+  "name": "webpack-absolute-paths-surma",
+  "version": "1.0.0",
+  "description": "https://twitter.com/DasSurma/status/960226626410766338",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "Andrew Levine",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
